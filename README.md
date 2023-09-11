@@ -1,6 +1,6 @@
 # Tianli-cdn-server (静态资源缓存服务端)
 
-## 恭喜你发现屎山！！！
+## 恭喜你发现屎山！！！（原仓库 https://github.com/Tianli-CDN/cdn-server ）
 
 ## 调用API文档：[API](https://console-docs.apipost.cn/preview/877a53de056aef04/6f7d9d05f50db9e6)
 
